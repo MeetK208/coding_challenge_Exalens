@@ -5,3 +5,5 @@ Problem Statement — You’re looking to move into a new apartment, and you’r
 Sample Input blocks = [{"gym": false,"school": true,"store": false,},{"gym": true,"school": false,"store": false,},{"gym": true,"school": true,"store": false,},{"gym": false,"school": true,"store": false,},{"gym": false,"school": true,"store": true,}]
 
 reqs = ["gym", "school", "store"]
+
+For detailed explanation of code please check file available as  Coding_Challenge_Exalens_Meet_kothari.doc.
